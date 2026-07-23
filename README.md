@@ -102,7 +102,7 @@ STM32による組込みソフトウェア・回路設計・PCB設計を行った
 
 |基板|3D|
 |---|---|
-|<img ...>|<img ...>|
+|![PCB](Images/PCB.jpg)|![3D](Images/PCB_3D.jpg)|
 
 ---
 
